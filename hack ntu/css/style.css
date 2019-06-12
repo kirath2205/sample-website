@@ -1,0 +1,271 @@
+p
+{
+    text-align: justify;
+}
+
+#main-wrapper
+{
+    width: 1200px;
+
+}
+
+
+#logo b
+{
+    float : right;
+    font-size: 40px;
+    padding-top: 50px;
+}
+.header
+{
+    width: 100%;
+    height : 200px;
+    background-color: ghostwhite;
+    padding-left: 230px;
+    padding-right: 230px;
+}
+.menubar
+{
+    padding-left: 230px;
+    background-color: rgb(2, 2, 80);
+    height : 60px;
+    width : 100%;
+    padding-right: 230px;
+   
+   
+}
+
+.menubar ul{
+    list-style: none;
+   padding: 25px;
+}
+
+.menubar ul li
+{
+    float: left;
+    margin-left: 10;
+}
+.menubar ul li a
+{
+    color : ghostwhite;
+    padding: 40px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.menubar ul li a:hover{
+    background-color: lightblue;
+    color: black;
+    font-weight: bold;
+}
+
+.sidebar
+{
+    width : 100%;
+    height : 500px;
+   padding-top: 100px;
+    padding-left: 230px;
+    background-color: ghostwhite;
+    padding-right: 230px;
+
+}
+
+.sidebar
+{
+    text-decoration: none;
+    
+}
+.sidebar ul
+{
+    float : right;
+    list-style: none;
+}
+
+.footer
+{
+    width : 100%;
+    padding-left: 230px;
+    padding-right: 230px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: black;
+}
+
+.sidebar2
+{
+    width : 100%;
+    height : 500px;
+   padding-top: 10px;
+    padding-left: 230px;
+    background-color: ghostwhite;
+    padding-right: 230px;
+}
+
+.footer p
+{
+    text-decoration: none;
+    text-align: center;
+    font-size: 13px;
+    color: white;
+    
+}
+
+
+.footer p a
+{
+    color : white;
+}
+.sidebar2 ul{
+    list-style: none;
+    float : right;
+    padding : 15px;
+}
+
+
+
+.sidebar2 ul li
+{
+    padding-left: 230px;
+    padding-right : 230px;
+}
+
+
+
+.sidebar2 ul li img
+{
+    padding-left: 230px;
+    padding-right : 230px;
+}
+
+
+
+.sidebar3 
+{
+    text-decoration: none;
+    
+    width : 100%;
+    height :500px;
+    padding-top: 10px;
+    padding-left: 230px;
+    background-color: ghostwhite;
+    padding-right: 230px;
+}
+
+.sidebar3 ul
+{
+    
+    list-style: none;
+    padding: 20px;
+    
+}
+
+
+
+.sidebar3 ul li 
+{
+   
+   margin-left: 10;
+}
+
+
+
+.sidebar3 ul li h2
+{
+    color : navy;
+    padding: 30px;
+    padding-left: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    float : left;
+
+}
+
+
+.sidebar3 ul li h4
+{
+    color : black;
+    font-size: 23px;
+    padding: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    float : left;
+}
+
+
+.sidebar3 ul li img
+{
+    float : left;
+    padding: 25px;
+}
+
+
+.sidebar4 
+{
+    background-color:ghostwhite;
+    width: 100%;
+    height : 500px;
+    padding-left : 230px;
+    padding-right : 230px;
+    padding-top : 20px;
+    
+}
+
+.sidebar4 h1
+{
+    text-align: center;
+    padding-left : 230px;
+    padding-right : 230px;
+    color: darkblue;
+    font-size: 35px;
+}
+
+.sidebar4 h6
+{
+    text-align: center;
+    padding-left : 230px;
+    padding-right : 230px;
+    color: darkblue;
+    font-size: 27px;
+    
+}
+
+.sidebar4 h6 a
+{
+    color: darkblue;
+    font-size: 27px;
+}
+
+
+.sidebar5
+{
+    background-color: ghostwhite;
+    width : 100%;
+    width : 100%;
+    height : 500px;
+   padding-top: 10px;
+    padding-left: 230px;
+    padding-right: 230px;
+}
+.sidebar5 h1
+{
+    color: darkblue;
+    text-align: center;
+    text-decoration: none;
+}
+
+.sidebar5 p
+{
+    color: darkblue;
+    text-align: justify;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sidebar5 h2
+{
+    color: darkblue;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
